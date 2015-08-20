@@ -5196,7 +5196,7 @@ a.button.ver_mas {
     width: 18px;
     line-height: 18px
 }
-#elle_footer {
+.footer {
     position: relative;
     display: table;
     box-sizing: border-box;
