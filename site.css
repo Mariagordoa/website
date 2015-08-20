@@ -5197,6 +5197,7 @@ a.button.ver_mas {
     line-height: 18px
 }
 .footer {
+    color: white;
     position: relative;
     display: table;
     box-sizing: border-box;
